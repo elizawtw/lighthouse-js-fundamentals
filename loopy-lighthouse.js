@@ -10,6 +10,6 @@ console.log("LoopyLighthouse");
     console.log("Lighthouse");
   }
   else{
-    console.log(x+"this is it");
+    console.log(x);
   }
-}//just a test
+}//second test
